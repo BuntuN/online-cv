@@ -164,11 +164,11 @@ publications:
 skills:
     title: Skills &amp; Proficiency
     toolset:  
-      - name: Python, shell
-        level: 80%, 70%
+      - name: Python
+        level: 80%
       
-      #-name: Bash/Shell script
-       #level: 70%
+      - name: Bash/Shell script
+        level: 70%
        
       #- name: CASA
        # level: 80%
