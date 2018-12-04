@@ -83,12 +83,17 @@ experiences:
       time: September 2018 - Present
       company: SARAO
       details: |
-
+            I am involved in the life cycle of software development, from documenting 
+            requirements, design, implementing and testing to maintanance.
 
     - role: Telescope Operator
       time: July 2016 - August 2018
       company: SARAO
       details: |
+            This role entails communicating with the various engineering groups that form 
+            components of the telescope system, to the users of the telescope - the radio astronomers. 
+            This is necessary for planning and scheduling observations where scientific data will be 
+            collected with the telescope. The main goal is to deliver quality assured data to the scientists.
       
     - role: Lab Demonstrator
       time: Feb 2014 - June 2016
@@ -112,7 +117,6 @@ experiences:
             research, working independently, scientific writing and
             managing time.
             
-            
     - role: Research Assistant
       time: Nov 2013 - Jan 2014
       company: UCT, Department of Astronomy
@@ -123,8 +127,7 @@ experiences:
             optical luminosity. Gained experience using the scientific
             and analysis package AIPS as well as the astronomy graphics
             display package KARMA
-            
-            
+                 
     - role: Software Tester
       time: Nov 2012 - Dec 2012
       company: UCT, Department of Physics
@@ -152,7 +155,6 @@ experiences:
             interpersonal skills whilst teaching and getting a
             class of over 30 learners interested in the mathematical
             sciences. This was mostly voluntary work.
-
           
 projects: Develop New Calibration Techniques for Radio Varying Sources
     title:
@@ -179,8 +181,6 @@ skills:
       
       -name: Productivity packages such as git, text editors, word processors, computer literacy, operating systems, microsoft
        level: 90%
-       
-       
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
