@@ -44,8 +44,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-       I have recently joined the software team of Square Kilometer Array (SKA) Project. 
-       This team designs, implements, tests, and maintains the software that is used to control and monitor the telescope.
+       I am an aspiring academic with interests across many disciplines. I am passionate about growth, progressive learning that leads
+       to product delivery. I am a fast learner, meet me in person to know more.
 
 education:
     - degree: MSc in Astrophysics
@@ -113,15 +113,51 @@ experiences:
             managing time.
             
             
-projects:
+    - role: Research Assistant
+      time: Nov 2013 - Jan 2014
+      company: UCT, Department of Astronomy
+      details: | 
+            Determining neutral hydrogen (HI) fluxes and masses on
+            data of galaxies from the HIPASS survey. Looking for
+            trends of HI morphology with environment, galaxy size and
+            optical luminosity. Gained experience using the scientific
+            and analysis package AIPS as well as the astronomy graphics
+            display package KARMA
+            
+            
+    - role: Software Tester
+      time: Nov 2012 - Dec 2012
+      company: UCT, Department of Physics
+      details: |       
+            I participated in developing Easy Java Simulations (EJS)
+            for teaching physics. Testing computer code that was
+            written by lecturers in order to teach EJS at a workshop.
+            I also wrote my own code to simulate and solve my favorite
+            problems in physics.
+            
+    - role: Waiter
+      time: Sep 2011 - Sep 2012
+      company: Apex, Eltreem Kwizeen
+      details: |
+            I worked as a part - time waiter at a catering company
+            for big events such as cricket matches, horse racing,
+            parliament lunches etc.
+         
+    - role: Winter School Tutor
+      time: Jun 2011 - Jul 2011
+      company: Fezeka High School, Education Without Borders Programme
+      details: |
+            I taught science and maths during winter holidays at a
+            public high school. During this period I developed
+            interpersonal skills whilst teaching and getting a
+            class of over 30 learners interested in the mathematical
+            sciences. This was mostly voluntary work.
+
+          
+projects: Develop New Calibration Techniques for Radio Varying Sources
     title:
-    details: |
-          Determining neutral hydrogen (HI) fluxes and masses on
-          data of galaxies from the HIPASS survey. Looking for
-          trends of HI morphology with environment, galaxy size and
-          optical luminosity. Gained experience using the scientific
-          and analysis package AIPS as well as the astronomy graphics
-          display package KARMA.
+    details: |   
+           A study toward a doctor of philosophy degree.
 
 publications:
     title: Star Formation in Nearby Barred Spiral Galaxies
@@ -134,6 +170,17 @@ skills:
     toolset:
       - name: Python
         level: 80%
+      
+      -name: Bash/Shell script
+       level: 70%
+       
+      - name: CASA
+        level: 80%
+      
+      -name: Productivity packages such as git, text editors, word processors, computer literacy, operating systems, microsoft
+       level: 90%
+       
+       
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
