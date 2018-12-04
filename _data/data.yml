@@ -163,20 +163,18 @@ publications:
 
 skills:
     title: Skills &amp; Proficiency
-
-    toolset:
-  
-      - name: Python
-        level: 80%
+    #toolset:  
+     # - name: Python
+      #  level: 80%
       
-      -name: Bash/Shell script
-       level: 70%
+      #-name: Bash/Shell script
+       #level: 70%
        
-      - name: CASA
-        level: 80%
+      #- name: CASA
+       # level: 80%
       
-      -name: Productivity packages such as git, text editors, word processors, computer literacy, operating systems, microsoft
-       level: 90%
+      #-name: Productivity packages such as git, text editors, word processors, computer literacy, operating systems, microsoft
+      # level: 90%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
