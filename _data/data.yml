@@ -97,7 +97,32 @@ experiences:
             I was a physics laboratory demonstrator for first year
             physics courses for engineering students, also tutor on
             tutorials for the UCT Physics Department.
- 
+       
+    - role: Exchange Student
+      time: Aug 2014 - Sept 2014
+      company: NRAO, USA
+      details: |
+            I was an exchange student at the NRAO, Charlottesville,
+            Virginia in the U.S.A for a two month fellowship.
+            Reducing data taken using the ALMA (Atacama Large
+            Millimetre Array) telescope using the software package
+            CASA (Common Astronomy Software Application).
+            Professional networking with scientists from various
+            fields of astronomy, communicating science, conducting
+            research, working independently, scientific writing and
+            managing time.
+            
+            
+projects:
+    title:
+    details: |
+          Determining neutral hydrogen (HI) fluxes and masses on
+          data of galaxies from the HIPASS survey. Looking for
+          trends of HI morphology with environment, galaxy size and
+          optical luminosity. Gained experience using the scientific
+          and analysis package AIPS as well as the astronomy graphics
+          display package KARMA.
+
 publications:
     title: Star Formation in Nearby Barred Spiral Galaxies
     intro: |
