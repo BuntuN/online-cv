@@ -163,9 +163,9 @@ publications:
 
 skills:
     title: Skills &amp; Proficiency
-    #toolset:  
-     # - name: Python
-      #  level: 80%
+    toolset:  
+      - name: Python
+        level: 80%
       
       #-name: Bash/Shell script
        #level: 70%
