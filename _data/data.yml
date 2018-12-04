@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Buntu Ngcebetsha
     tagline: Junior Software Engineer
-    avatar: /assets/images/buntu.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: ../assets/images/buntu.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: buntungcebetsha@gmail.com
@@ -81,16 +81,23 @@ education:
 experiences:
     - role: Junior Software Engineer
       time: September 2018 - Present
-      company: SARAO, South Africa
+      company: SARAO
       details: |
 
 
     - role: Telescope Operator
       time: July 2016 - August 2018
-      company: SARAO, South Africa
+      company: SARAO
       details: |
       
-      
+    - role: Lab Demonstrator
+      time: Feb 2014 - June 2016
+      company: UCT, Department of Physics
+      details: |
+            I was a physics laboratory demonstrator for first year
+            physics courses for engineering students, also tutor on
+            tutorials for the UCT Physics Department.
+            
       
       
       
@@ -106,7 +113,7 @@ projects:
     assignments:
       - title: Automated Linting for CI
         #link: "#hook"
-        #tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "A tool to ensure the source code conforms to pep8 coding standards"
 
       #- title: DevStudio
        # link: "#"
