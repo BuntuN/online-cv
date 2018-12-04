@@ -45,7 +45,8 @@ career-profile:
     title: Career Profile
     summary: |
        I am an aspiring academic with interests across many disciplines. I am passionate about growth, progressive learning that leads
-       to product delivery. I am a fast learner, meet me in person to know more.
+       to product delivery. I am a fast learner, meet me in person to know more. I have recently received certification in acquisition 
+       management and systems engineering. This is after a year participating in the GYSEOY challenge, part of the team that won in 2018.
 
 education:
     - degree: MSc in Astrophysics
@@ -159,22 +160,22 @@ experiences:
 publications:
     title: Star Formation in Nearby Barred Spiral Galaxies
     intro: |
-      Based on my masters thesis 
+      Based on my masters thesis - still work in progress
 
 skills:
     title: Skills &amp; Proficiency
     toolset:  
-      - name: Python
+      - name: Python, CASA
         level: 80%
       
       - name: Bash/Shell script
         level: 70%
-       
-      #- name: CASA
-       # level: 80%
       
-      #-name: Productivity packages such as git, text editors, word processors, computer literacy, operating systems, microsoft
-      # level: 90%
+      - name: Productivity packages such as git, text editors, word processors, computer literacy, operating systems, microsoft
+        level: 90%
+       
+      - name: Systems thinking
+        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
