@@ -97,40 +97,7 @@ experiences:
             I was a physics laboratory demonstrator for first year
             physics courses for engineering students, also tutor on
             tutorials for the UCT Physics Department.
-            
-      
-      
-      
-      
-
-projects:
-    #title: Projects
-    #intro: >
-      #You can list your side projects or open source libraries in this
-      #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
-    assignments:
-      - title: Automated Linting for CI
-        #link: "#hook"
-        tagline: "A tool to ensure the source code conforms to pep8 coding standards"
-
-      #- title: DevStudio
-       # link: "#"
-        #tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      #- title: Tempo
-       # link: "#"
-        #tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      #- title: Atom
-       # link: "#"
-        #tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      #- title: Delta
-        #link: "#"
-        #tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+ 
 publications:
     title: Star Formation in Nearby Barred Spiral Galaxies
     intro: |
