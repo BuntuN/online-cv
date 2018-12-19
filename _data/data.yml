@@ -166,10 +166,13 @@ publications:
 skills:
     title: Skills &amp; Proficiency
     toolset:  
-      - name: Python, CASA
+      - name: Python
         level: 80%
       
       - name: Bash/Shell script
+        level: 70%
+        
+      - name: Version control software
         level: 70%
       
       - name: Productivity packages
