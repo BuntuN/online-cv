@@ -78,15 +78,16 @@ education:
       university: University of Cape Town
       time: February 2008 - December 2012
       details: |
-        Undergraduate degree in Physics, Astrophysics, Mathematics & Applied Math.
+        Undergraduate degree in Physics, Astrophysics, Mathematics & Applied Mathematics
 
 experiences:
     - role: Junior Software Engineer
       time: September 2018 - Present
       company: SARAO
       details: |
-            I am involved in the life cycle of software development, from documenting 
-            requirements, design, implementing and testing to maintanance.
+            I am on the team that develops the control software for the MeerKAT and SKA radio telescopes. 
+            Invloved in documenting requirements, software design, implementation and testing. I am also 
+            involved in software maintanance.
 
     - role: Telescope Operator
       time: July 2016 - August 2018
