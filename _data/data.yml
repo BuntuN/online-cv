@@ -142,7 +142,7 @@ experiences:
             
     - role: Waiter
       time: Sep 2011 - Sep 2012
-      company: Apex, Eltreem Kwizeen
+      company: Apex, Ektreem Kwizeen
       details: |
             I worked as a part - time waiter at a catering company
             for big events such as cricket matches, horse racing,
@@ -169,17 +169,29 @@ skills:
       - name: Python
         level: 80%
       
-      - name: Bash/Shell script
-        level: 70%
-        
-      - name: Version control software
+      - name: Shell Script
         level: 70%
       
-      - name: Productivity packages
-        level: 90%
-       
-      - name: Systems thinking
+      - name: Linux
+        level: 75%
+        
+      - name: Version Control Software (Git)
+        level: 70%
+      
+      - name: Jira
         level: 80%
+       
+      - name: Systems Thinking
+        level: 70%
+        
+      - name: Agile Methodologies
+        level: 65%
+        
+      - name: Google Sheets, Slides, Docs
+        level: 90%
+        
+      - name: Written & Spoken Communication
+        level: 85%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
