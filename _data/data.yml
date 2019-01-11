@@ -45,9 +45,10 @@ career-profile:
     title: Career Profile
     summary: |
        I am an aspiring academic with interests across many disciplines. I am passionate about growth, progressive learning that leads
-       to product delivery. I am a fast learner, meet me in person to know more. I have recently received certification in acquisition 
-       management and systems engineering. This is after a year participating in the GYSEOY challenge, where we learned and applied 
-       systems engineering principles and systems thinking to solve a real life problem. I was in the team that won in 2018.
+       to product delivery. I am a fast learner, as proven by my educational background. Meet me in person to know more. I have various
+       professional and academic accomplishments, the most recent being certification in acquisition management and systems engineering. 
+       This is after a year participating in the GYSEOY challenge, where we learned and applied systems engineering principles and 
+       systems thinking to solve an abstract socio-economic problem. I was in the team that won in 2018.
 
 education:
     - degree: PhD in Radio Astronomy 
@@ -93,7 +94,7 @@ experiences:
       company: SARAO
       details: |
             I am on the team that develops the control software for the MeerKAT and SKA radio telescopes. 
-            Invloved in documenting requirements, software design, implementation and testing. I am also 
+            Involved in requirements analysis, design, implementation and testing. I am also 
             involved in software maintanance.
 
     - role: Telescope Operator
@@ -175,15 +176,15 @@ skills:
     title: Skills &amp; Proficiency
     toolset:  
       - name: Python
-        level: 80%
+        level: 70%
       
       - name: Shell Script
-        level: 70%
+        level: 60%
       
       - name: Linux
         level: 75%
         
-      - name: Version Control Software (Git)
+      - name: Version Control Tools (Git)
         level: 70%
       
       - name: Project Management Tools (Jira, CORE)
