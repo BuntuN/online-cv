@@ -95,7 +95,7 @@ experiences:
       details: |
             I am on the team that develops the control software for the MeerKAT and SKA radio telescopes. 
             Involved in requirements analysis, design, implementation and testing. I am also 
-            involved in software maintanance.
+            involved in software maintanance. We follow the Scaled Agile Framework (SAFe).
 
     - role: Telescope Operator
       time: July 2016 - August 2018
