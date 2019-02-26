@@ -20,7 +20,7 @@ sidebar:
     stack-overflow: 8874586/buntu-ngcebetsha # Number/Username, e.g. 123456/alandoe
     codewars: BuntuN
     goodreads: # Number-Username, e.g. 123456-alandoe
-    instagram: instagram.com/ngcebetsha_buntu/
+    instagram: ngcebetsha_buntu
 
     languages:
       - idiom: Xhosa
@@ -49,14 +49,14 @@ career-profile:
        systems thinking to solve an abstract socio-economic problem. I was in the team that won in 2018.
 
 education:
-    - degree: PhD in Radio Astronomy 
+    - degree: PhD Radio Astronomy 
       university: Rhodes University
       time: 2017 - Present
       details: |
         Doctor of philosophy degree in radio interferometry techniques & technologies, developing calibration techniques for radio varying sources.
 
 
-    - degree: MSc in Astrophysics
+    - degree: MSc Astrophysics
       university: University of Cape Town
       time: 2014 - 2016
       details: |
@@ -68,7 +68,7 @@ education:
           - Cataclysmic Variable Stars
           - Data Analysis & Time Series
      
-    - degree: BSc Honors in Astrophysics
+    - degree: BSc Honors Astrophysics & Space Science
       university: University of Cape Town
       time: January 2013 - December 2013
       details: |
