@@ -175,7 +175,7 @@ skills:
     toolset:  
       - name: Python
         level: 70%
-      -name: JavaScript
+      - name: JavaScript
         level: 40%
       - name: Shell Script
         level: 60%
