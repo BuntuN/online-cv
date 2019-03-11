@@ -93,7 +93,7 @@ experiences:
       details: |
             I am on the team that develops the control software for the MeerKAT and SKA radio telescopes. 
             Involved in requirements analysis, design, implementation and testing. I am also involved in 
-            software maintanance. We follow the Scaled Agile Framework (SAFe) and use python for backend 
+            software maintanance. We follow the Scaled Agile Framework (SAFe) and use Python for backend 
             in conjunction with JavaScript for frontend.
 
     - role: Telescope Operator
