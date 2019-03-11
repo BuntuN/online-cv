@@ -43,8 +43,8 @@ career-profile:
     title: Career Profile
     summary: |
        I am an aspiring academic with interests across many disciplines. I am passionate about growth, progressive learning that leads
-       to product delivery. I am a fast learner, as proven by my educational background. Meet me in person to know more. I have various
-       professional and academic accomplishments, the most recent being certification in acquisition management and systems engineering. 
+       to product delivery. I am a fast learner, passionate about acquiring new ways of doing things. I have various professional and 
+       academic accomplishments, the most recent being certification in acquisition management and systems engineering. 
        This is after a year participating in the GYSEOY challenge, where we learned and applied systems engineering principles and 
        systems thinking to solve an abstract socio-economic problem. I was in the team that won in 2018.
 
@@ -92,8 +92,9 @@ experiences:
       company: SARAO
       details: |
             I am on the team that develops the control software for the MeerKAT and SKA radio telescopes. 
-            Involved in requirements analysis, design, implementation and testing. I am also 
-            involved in software maintanance. We follow the Scaled Agile Framework (SAFe).
+            Involved in requirements analysis, design, implementation and testing. I am also involved in 
+            software maintanance. We follow the Scaled Agile Framework (SAFe) and use python for backend 
+            in conjunction with JavaScript for frontend.
 
     - role: Telescope Operator
       time: July 2016 - August 2018
