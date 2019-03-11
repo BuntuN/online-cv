@@ -53,7 +53,7 @@ education:
       university: Rhodes University
       time: 2017 - Present
       details: |
-        Doctor of philosophy degree in radio interferometry techniques & technologies, developing calibration techniques for radio varying sources.
+        Doctor of philosophy degree in the topic of Radio Astronomy Techniques & Technologies
 
 
     - degree: MSc Astrophysics
@@ -175,7 +175,8 @@ skills:
     toolset:  
       - name: Python
         level: 70%
-      
+      -name: JavaScript
+        level: 40%
       - name: Shell Script
         level: 60%
       
@@ -186,13 +187,13 @@ skills:
         level: 70%
       
       - name: Project Management Tools (Jira, Trello, CORE)
-        level: 80%
+        level: 75%
        
       - name: Systems Thinking
         level: 70%
         
       - name: Agile Methodologies
-        level: 65%
+        level: 60%
         
       - name: Google Sheets, Slides, Docs
         level: 90%
