@@ -20,7 +20,6 @@ sidebar:
     stack-overflow: 8874586/buntu-ngcebetsha # Number/Username, e.g. 123456/alandoe
     codewars: BuntuN
     goodreads: # Number-Username, e.g. 123456-alandoe
-    instagram: ngcebetsha_buntu
 
     languages:
       - idiom: Xhosa
@@ -175,23 +174,23 @@ skills:
     title: Skills &amp; Proficiency
     toolset:  
       - name: Python
-        level: 70%
-      - name: JavaScript
-        level: 40%
-      - name: Shell Script
         level: 60%
+      - name: JavaScript
+        level: 35%
+      - name: Shell Script
+        level: 50%
       
       - name: Linux
-        level: 75%
-        
-      - name: Version Control Tools (Git)
         level: 70%
+        
+      - name: Git
+        level: 60%
       
       - name: Project Management Tools (Jira, Trello, CORE)
-        level: 75%
+        level: 65%
        
       - name: Systems Thinking
-        level: 70%
+        level: 60%
         
       - name: Agile Methodologies
         level: 60%
