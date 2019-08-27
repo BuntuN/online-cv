@@ -15,7 +15,7 @@ sidebar:
     email: buntungcebetsha@gmail.com
     phone: 079 641 9180
     linkedin: linkedin.com/in/buntungcebetsha
-    github: BuntuN
+    github: bngcebetsha
     stack-overflow: 8874586/buntu-ngcebetsha # Number/Username, e.g. 123456/alandoe
     codewars: BuntuN
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -173,17 +173,22 @@ skills:
     title: Skills &amp; Proficiency
     toolset:  
       - name: Python
-        level: 60%
+        level: 70%
+        
       - name: JavaScript
-        level: 35%
-      - name: Shell Script
-        level: 50%
-      
+        level: 55%
+        
+      - name: CSS
+        level: 55%
+        
+      - name: HTML
+        level: 55%
+        
       - name: Linux
         level: 70%
         
       - name: Git
-        level: 60%
+        level: 70%
       
       - name: Project Management Tools (Jira, Trello, CORE)
         level: 65%
