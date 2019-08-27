@@ -42,17 +42,14 @@ career-profile:
     summary: |
        I am an aspiring academic with interests across many disciplines. I am passionate about growth, progressive learning that leads
        to product delivery. I am a fast learner, passionate about acquiring new ways of doing things. I have various professional and 
-       academic accomplishments, the most recent being certification in acquisition management and systems engineering. 
-       This is after a year participating in the GYSEOY challenge, where we learned and applied systems engineering principles and 
-       systems thinking to solve an abstract socio-economic problem. I was in the team that won in 2018.
-
+       academic accomplishments. 
+       
 education:
     - degree: PhD Radio Astronomy 
       university: Rhodes University
       time: 2017 - Present
       details: |
         Doctor of philosophy degree in the topic of Radio Astronomy Techniques & Technologies
-
 
     - degree: MSc Astrophysics
       university: University of Cape Town
@@ -92,7 +89,12 @@ experiences:
             I am on the team that develops the control software for the MeerKAT and SKA radio telescopes. 
             Involved in requirements analysis, design, implementation and testing. I am also involved in 
             software maintanance. We follow the Scaled Agile Framework (SAFe) and use Python for backend 
-            in conjunction with JavaScript for frontend.
+            in conjunction with JavaScript for frontend. I do science communication outreach to speak on
+            astronomy and engineering disciplines as an options for underepresented population groups.
+            I also took place and recieved certification in acquisition management and systems engineering. 
+            This is after a year participating in the GYSEOY challenge, where we learned and applied systems
+            engineering principles and systems thinking to solve an abstract socio-economic problem.
+            I was in the team that won in 2018.
 
     - role: Telescope Operator
       time: July 2016 - August 2018
